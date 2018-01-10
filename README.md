@@ -10,4 +10,4 @@ make<br>
 Usage:<br>
 Make additional Unix domain socket with WebUI program Service tab.<br>
 Set some sendto paramaters.<br>
-./hvc ( if you want to start automatic, set startup script with extention tab )<br>
+./hvc ( if you want to start automatically, set startup script with extention tab of WebUI )<br>
